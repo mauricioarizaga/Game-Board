@@ -1,7 +1,7 @@
 ## Challenge Game Board
 
-## React Redux LocalStorage
+### React Redux LocalStorage
 
-## Diseño: Material-UI
+### Diseño: Material-UI
 
-## Mauricio Arizaga
+### Mauricio Arizaga
