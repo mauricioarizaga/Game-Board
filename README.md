@@ -4,4 +4,4 @@
 
 ### Diseño: Material-UI
 
-### Mauricio Arizaga
+### Autor: Mauricio Ariel Arizaga
