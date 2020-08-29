@@ -38,7 +38,6 @@ const useStyles = makeStyles((theme) => ({
 
 export function RegisterPlayers() {
   const classes = useStyles();
-  const [dense, setDense] = useState(false);
   const dispatch = useDispatch();
   const [nombrecompleto, setNombre] = useState("");
   const [legajo, setLegajo] = useState("");

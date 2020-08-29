@@ -1,4 +1,4 @@
-import React, { useState, useLayoutEffect } from "react";
+import React, { useState } from "react";
 import { useDispatch, connect } from "react-redux";
 import {
   Button,
