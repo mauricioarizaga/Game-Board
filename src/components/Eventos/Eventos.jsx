@@ -20,7 +20,7 @@ const useStyles = makeStyles((theme) => ({
   table: {
     minWidth: 650,
   },
-}));
+})); //Revisado
 export function Events(data) {
   const classes = useStyles();
   const dispatch = useDispatch();
